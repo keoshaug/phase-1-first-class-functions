@@ -26,7 +26,7 @@ function returnsAnAnonymousFunction(meiji) {
     }
 
     return function () {
-        console.log(`Mr. ${stateman} is here!`);
+        console.log(`Mr. ${statesman} is here!`);
       };
 };
 
